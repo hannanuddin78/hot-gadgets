@@ -18,8 +18,9 @@
     box-shadow: 5px 5px 10px gray;
     padding: 15%;
 }
-.cat-h1 h1{
-    padding-top: 40px;
+.cat-h1 {
+    padding-top: 30px;
+    padding-bottom: 50px;
 }
 .cat-left {
     padding-bottom: 30px;
