@@ -1,0 +1,27 @@
+.container{
+    margin-top: 20px;
+}
+.nav-link{
+    color: black;
+}
+.catagoires{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.catagoires-top h6, .catagoires2-top h6{
+    color: #ff9d00;
+}
+.catagoires-top, .catagoires2-top{
+    padding-bottom: 20px;
+}
+.catagori-card{
+    box-shadow: 5px 5px 10px gray;
+    padding: 15%;
+}
+.cat-left {
+    padding-bottom: 30px;
+}
+.cat-left-img{
+    max-width: 100%;
+    height: auto;
+}
